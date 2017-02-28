@@ -48,6 +48,7 @@ public class MainActivity extends AppCompatActivity implements IMainView{
         onClickSubTema(dialog);
     }
 
+    @Override
     public void onClickSubTema(final AlertDialog dialog){
         bton.setOnClickListener(new View.OnClickListener() {
             @Override
