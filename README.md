@@ -1,3 +1,1 @@
-# Modelo, vista, presentación
-
-Para la 
+# Patron de diseño Modelo, vista, presentación para Android(Java)
